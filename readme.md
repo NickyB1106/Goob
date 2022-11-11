@@ -1,4 +1,4 @@
-# I hate Discord so I made this
+# I love Discord so I made this
 
 ### How to use
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
@@ -12,7 +12,3 @@
 
 ### Example
 `npm run run V2h5IGRpZCB5b3UgYWN0dWFsbHkgZGVjb2RlIGl0Pw.GIxRdU._UxMrJsWYKLAROyis_Kkv7XsXk-7Hjvuc7nIXg`
-
-
-### Extra note
-Silly cat :3
